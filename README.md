@@ -38,7 +38,7 @@ All OS Instructions depend on you having US keyboard Layout selected.
  - Reboot
 
 #### Alternative b
- - Download and install AutoHotkey Version 1.x (v2 will work with different Syntax)
+ - Download and install AutoHotkey Version 1.x (v2 will work with different Syntax): `choco install autohotkey`
  - Copy the script file `*.ahk`
  - Right-click on the Start button and choose `Explore All Users`
  - Navigate to the Startup folder inside the Programs folder and paste the script file
